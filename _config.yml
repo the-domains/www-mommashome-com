@@ -1,0 +1,28 @@
+name: www.mommashome.com
+favicon: null
+layout_spectrum: 0.7788759737741202
+typography_spectrum: 0.19509508064948022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5719230442773551
+  lightness: 0.6752276211045682
+  saturation: 0.31398024037480354
+  rhythmicContrast: 0.24701466620899737
+purpose: []
